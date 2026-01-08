@@ -1,0 +1,49 @@
+.header-container{
+ display: block;
+}
+      .header{
+        display: flex;
+        margin-top: 100.92px;
+        border-bottom: 1px solid black ;
+        padding-bottom: 30px;
+      }
+      .left-header{
+        font-size: 35px;
+        font-family: consolas;
+        margin-left: 199px;
+        margin-right:330px ;
+        font-weight: bold;
+        margin-top: -6px;
+        
+      }
+      .lara-span{
+        color: #007f51 ;
+      }
+      .middle-header{
+        display: flex;
+        margin-right: 305px;
+        margin-top: 0;
+        padding: 0;
+        
+        
+      }
+      .tabs{
+        padding: 0;
+        height: 18px;
+      }
+
+     .header button{
+        font-weight: bold;
+        width: 177px;
+        height: 56px;
+        font-size:24px ;
+        font-family: consolas;
+        background-color: #00E593 ;
+        border: rgb(0,0,0) solid 3px;
+        border-radius: 7px;
+        box-shadow: 4px 4px 1px black;
+        white-space: nowrap;
+        cursor: pointer;
+        margin-top: -20px;
+        margin-bottom:0px;
+      }

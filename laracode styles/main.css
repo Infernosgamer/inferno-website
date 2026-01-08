@@ -1,0 +1,110 @@
+.contact-us-container{
+        display: flex;
+        margin-top: 181px;
+        margin-left: 199px;
+        align-items: center;
+        
+
+      }
+      .contact-us-text{
+        font-size: 80px;
+        font-family: Inter;
+        font-weight: Bold;
+        margin-bottom:82px ;
+        
+      }
+      .encourage{
+        font-family: inter;
+        width: 619.28px;
+        height: 70px;
+        font-size: 30px;
+        margin-left: 507px;
+        margin-bottom:82px ;
+
+      }
+
+      .ways-to-contact{
+        display: flex;
+        background-color: #F2F2F2;
+      }
+      .company-contact-info{
+        margin-left: 177px;
+        width: 598px;
+        font-family: inter;
+      }
+      .email-inputs{
+        display: flex;
+        flex-direction: column;
+        margin-left: 202px ;
+      }
+
+      .email-input,.name-input,.message-input{
+        display: block;
+        font-family: Inter;
+        font-size: 32px;
+        font-weight: Bold;
+        margin-top: 21px;
+        border-radius: 8px;
+        border: solid 3px black;
+        
+
+
+      }
+      .email-input,.name-input{
+        width: 760px;
+        height: 90.64px;
+
+
+      }
+
+      .email-input-div,.name-input-div,.message-input-div{
+        font-family: Inter;
+        font-size: 32px;
+        font-weight: Bold;
+        margin-top: 70px;
+        
+        
+      }
+      .message-input{
+        width: 760px;
+        height: 327px;
+      }
+
+      .send-message-btn{
+        width: 219px;
+        height: 61px;
+        margin-top: 49px;
+        background-color: #00E593;
+        border-radius: 7px;
+        border: 3px solid black;
+        box-shadow: 4px 4px 1px black ;
+        font-size: 24px;
+        font-family: Inter;
+        font-weight: bold;
+        line-height: 168.4%;
+      }
+      
+
+      .contact-number,.contact-email, .encourage-2{
+        font-family: inter;
+        font-size: 30px;
+
+      }
+      .contact-number{
+        margin-top: 240px;
+        margin-bottom:0px ;
+      }
+      .contact-email{
+        margin-top: 58px;
+        margin-bottom:88px ;
+      }
+      .phone-png{
+        width:40.19px ;
+        height: 40.19px;
+        margin-right: 37px;
+      }
+      .email-png{
+        width: 42.5px;
+        height: 30.67px;
+        margin-right: 37px;
+      }
